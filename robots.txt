@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+Ajout du fichier robots.txt à la racine
